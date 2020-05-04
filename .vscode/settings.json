@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/45d3ab17-4ef7-4809-b32c-120e974fb17e/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/AlumniSwagApp",
+    "appService.deploySubpath": ""
+}
